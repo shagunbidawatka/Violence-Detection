@@ -12,6 +12,5 @@ pygments ==2.0
 pylint ==0.25     
 qtconsole ==4.2.0 
 rope ==0.9.4      
-sphinx ==0.6.6    
-sympy ==0.7.3                                   
+                                
 
