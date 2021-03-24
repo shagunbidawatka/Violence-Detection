@@ -1,1 +1,17 @@
 gunicorn ==20.0.4
+IPython ==4.0     
+cython ==0.21     
+jedi ==0.9.0      
+matplotlib ==2.0.0
+nbconvert ==4.0   
+numpy ==1.7       
+pandas ==0.13.1   
+pycodestyle ==2.3 
+pyflakes ==0.6.0  
+pygments ==2.0    
+pylint ==0.25     
+qtconsole ==4.2.0 
+rope ==0.9.4      
+sphinx ==0.6.6    
+sympy ==0.7.3                                   
+
