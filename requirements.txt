@@ -6,7 +6,7 @@ matplotlib ==2.0.0
 nbconvert ==4.0   
 numpy ==1.7
 keras == 2.4.3
-
+tensorflow == 2.4.1
     
                                 
 
