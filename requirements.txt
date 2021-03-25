@@ -1,10 +1,10 @@
 gunicorn ==20.0.4
-IPython ==4.0     
-cython ==0.21     
-jedi ==0.9.0      
-matplotlib ==2.0.0
-nbconvert ==4.0   
-numpy ==1.7
+IPython ==5.5.0     
+cython ==0.29.6     
+jedi ==0.13.3     
+matplotlib ==3.0.3
+nbconvert ==5.4.1   
+numpy ==1.19.2
 keras == 2.4.3
 tensorflow == 2.4.1
     
